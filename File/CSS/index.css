@@ -1,0 +1,10 @@
+.form-area{
+    margin:  50px 0;
+}
+.main-form{
+    padding: 50px;
+    background: #BA5370;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #F4E2D8, #BA5370);  
+background: linear-gradient(to top, #F4E2D8, #BA5370); 
+
+}
